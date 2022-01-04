@@ -1,0 +1,11 @@
+D:\Documentos\EjerciciosVS\PingPong\bin\Debug\PingPong.exe.config
+D:\Documentos\EjerciciosVS\PingPong\bin\Debug\PingPong.exe
+D:\Documentos\EjerciciosVS\PingPong\bin\Debug\PingPong.pdb
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.exe
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.pdb
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.Menu.resources
+D:\Documentos\EjerciciosVS\PingPong\obj\Debug\PingPong.Juego.resources
